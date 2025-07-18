@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+title: "Visiting Lecturer"
+collection: Lecturer in Mathematics
+type: "Undergraduate Course"
+permalink: /teaching/2015-spring-teaching-2
+venue: "COMSATS University, Sahiwal, Pakistan"
+date: 2021-01-01
+location: "Sahiwal, Pakistan"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Taught undergraduate mathematics courses:
+  - **MATH-453**: Fluid Mechanics *(Spring 2021)*
+  - **MATH-375**: Numerical Analysis *(Spring 2021)*
+  - **MATH-308**: Partial Differential Equations *(Spring 2021)*

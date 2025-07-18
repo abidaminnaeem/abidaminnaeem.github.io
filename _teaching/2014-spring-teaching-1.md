@@ -3,6 +3,7 @@ title: "Graduate Teching Assistant"
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "North Carolina State University, NC, USA"
+date: 2022 - 2024
 ---
 - Tutored undergraduate engineering students in MATLAB programming and mathematics.
 - Led recitations and supported coursework for the following classes:

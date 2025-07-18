@@ -1,5 +1,5 @@
 ---
-title: "Visiting Lecturer"
+title: "Lecturer in Mathematics"
 type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "COMSATS University, Sahiwal, Pakistan"

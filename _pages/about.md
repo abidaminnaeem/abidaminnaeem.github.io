@@ -19,21 +19,17 @@ I’ve had the privilege of teaching undergraduate courses in **optimization**, 
 Research Interests
 ==================
 
-**Optimization & Inverse Problems in Engineering**: Focused on solving inverse and optimization problems in complex engineering systems, including model calibration and parameter estimation.
+**- Optimization & Inverse Problems in Engineering**: Focused on solving inverse and optimization problems in complex engineering systems, including model calibration and parameter estimation.
 
-**Parametric PDEs & Uncertainty Quantification**: Studying parametric partial differential equations with emphasis on sensitivity analysis and prediction under uncertainty.
+**- Parametric PDEs & Uncertainty Quantification**: Studying parametric partial differential equations with emphasis on sensitivity analysis and prediction under uncertainty.
 
-**Scientific Machine Learning & Generative AI**: Integrating machine learning with physical models to solve scientific problems, using neural operators and generative approaches.
+**- Scientific Machine Learning & Generative AI**: Integrating machine learning with physical models to solve scientific problems, using neural operators and generative approaches.
 
-**Numerical Analysis & High-Order Solvers**: Developing efficient numerical algorithms and high-order methods for solving nonlinear systems and PDEs.
-
-**Computational Fluid Dynamics**: Simulating fluid behavior, heat transfer, and flow dynamics using advanced numerical techniques.
+**- Numerical Analysis & High-Order Solvers**: Developing efficient numerical algorithms and high-order methods for solving nonlinear systems and PDEs.
 
 Let's Connect
 =============
 
-I’m deeply passionate about collaboration, scientific outreach, and interdisciplinary research. Throughout my academic and professional journey, I’ve actively contributed to international research projects, mentored students, and engaged with scientific communities to promote open knowledge and innovation.
+I’m passionate about collaboration, scientific outreach, and interdisciplinary research. Over the years, I’ve mentored students, contributed to research projects, and engaged with scientific communities to promote open knowledge.
 
-I’m always open to meaningful conversations whether it’s co-authoring a publication, contributing to a computational framework, or initiating a new research direction.
-
-If you’re interested in exploring ideas related to scientific machine learning, mathematical modeling, or advanced simulation, I’d be glad to connect and collaborate.
+Whether it’s co-authoring a paper, developing computational tools, or exploring new research directions — I’m always open to meaningful collaboration in areas like scientific machine learning, mathematical modeling, and simulation.

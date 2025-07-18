@@ -19,13 +19,10 @@ I’ve had the privilege of teaching undergraduate courses in **optimization**, 
 Research Interests
 ==================
 
-**- Optimization & Inverse Problems in Engineering**: Focused on solving inverse and optimization problems in complex engineering systems, including model calibration and parameter estimation.
-
-**- Parametric PDEs & Uncertainty Quantification**: Studying parametric partial differential equations with emphasis on sensitivity analysis and prediction under uncertainty.
-
-**- Scientific Machine Learning & Generative AI**: Integrating machine learning with physical models to solve scientific problems, using neural operators and generative approaches.
-
-**- Numerical Analysis & High-Order Solvers**: Developing efficient numerical algorithms and high-order methods for solving nonlinear systems and PDEs.
+- **Optimization & Inverse Problems in Engineering**: Focused on solving inverse and optimization problems in complex engineering systems, including model calibration and parameter estimation.
+- **Parametric PDEs & Uncertainty Quantification**: Studying parametric partial differential equations with emphasis on sensitivity analysis and prediction under uncertainty.
+- **Scientific Machine Learning & Generative AI**: Integrating machine learning with physical models to solve scientific problems, using neural operators and generative approaches.
+- **Numerical Analysis & High-Order Solvers**: Developing efficient numerical algorithms and high-order methods for solving nonlinear systems and PDEs.
 
 Let's Connect
 =============

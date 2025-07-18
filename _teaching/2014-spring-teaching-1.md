@@ -1,8 +1,8 @@
 ---
 title: "Graduate Teching Assistant"
 type: "Undergraduate course"
-venue: "Morth Carolina State University, NC, USA"
-date: August 2022 - May 2024
+permalink: /teaching/2015-spring-teaching-1
+venue: "North Carolina State University, NC, USA"
 ---
 - Tutored undergraduate engineering students in MATLAB programming and mathematics.
 - Led recitations and supported coursework for the following classes:

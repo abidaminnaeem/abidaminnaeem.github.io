@@ -10,27 +10,30 @@ redirect_from:
 ---
 **Abid Amin Naeem** is a researcher in *Computational Science, Engineering, and Mathematics* with a focus on **Scientific Machine Learning**, **Mathematical Modeling**, and **Scientific Computing**. I’m passionate about addressing complex real-world challenges through rigorous mathematical frameworks and data-driven approaches.
 
-Currently pursuing my PhD in Aerospace & Mechanical Engineering at the University of Tennessee, I’ve contributed to international research efforts in **uncertainty quantification**, **parametric simulations**, and **neural PDE solvers**. My work bridges the gap between theoretical mathematics and applied machine learning, particularly in modeling dynamic systems where data is scarce but precision is critical.
+Currently pursuing my PhD in Aerospace & Mechanical Engineering at the University of Tennessee, Knoxville. I previously earned a master's degree in Applied and Computational Mathematics from **North Carolina State University**, where I specialized in numerical methods, uncertainty quantification, and fluid dynamics.
+
+I’ve had the opportunity to work on research projects involving **uncertainty quantification**, **parametric simulations**, and **neural network-based solvers for partial differential equations (PDEs)**. My work focuses on connecting ideas from theoretical mathematics and applied machine learning to better understand and model complex systems, especially in situations where data is limited but accuracy still matters.
 
 I’ve had the privilege of teaching undergraduate courses in **optimization**, **fluid mechanics**, and **numerical analysis**, and I continue to mentor and collaborate across academic and industrial domains.
 
 Research Interests
 ==================
 
-- Optimization & Inverse Problems in Engineering
-- Parametric PDEs & Uncertainty Quantification
-- Scientific Machine Learning & Generative AI
-- Numerical Analysis & High-Order Solvers
-- Computational Fluid Dynamics
+**Optimization & Inverse Problems in Engineering**: Focused on solving inverse and optimization problems in complex engineering systems, including model calibration and parameter estimation.
+
+**Parametric PDEs & Uncertainty Quantification**: Studying parametric partial differential equations with emphasis on sensitivity analysis and prediction under uncertainty.
+
+**Scientific Machine Learning & Generative AI**: Integrating machine learning with physical models to solve scientific problems, using neural operators and generative approaches.
+
+**Numerical Analysis & High-Order Solvers**: Developing efficient numerical algorithms and high-order methods for solving nonlinear systems and PDEs.
+
+**Computational Fluid Dynamics**: Simulating fluid behavior, heat transfer, and flow dynamics using advanced numerical techniques.
 
 Let's Connect
 =============
 
-I’m always open to collaborations, research discussions, and knowledge exchange. Feel free to reach out via:
+I’m deeply passionate about collaboration, scientific outreach, and interdisciplinary research. Throughout my academic and professional journey, I’ve actively contributed to international research projects, mentored students, and engaged with scientific communities to promote open knowledge and innovation.
 
-- **LinkedIn**: [abidaminnaeem](https://linkedin.com/in/abidaminnaeem)
-- **ResearchGate**: [Abid Amin Naeem](https://www.researchgate.net/profile/Abid-Amin-Naeem)
-- **Google Scholar**: [Profile](https://scholar.google.com/citations?hl=en&user=Tj9QLmoAAAAJ)
-- **GitHub**: [abidaminnaeem](https://github.com/abidaminnaeem)
+I’m always open to meaningful conversations whether it’s co-authoring a publication, contributing to a computational framework, or initiating a new research direction.
 
-Let’s explore and innovate together!
+If you’re interested in exploring ideas related to scientific machine learning, mathematical modeling, or advanced simulation, I’d be glad to connect and collaborate.

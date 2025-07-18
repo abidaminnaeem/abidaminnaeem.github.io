@@ -29,4 +29,4 @@ Let's Connect
 
 I’m passionate about collaboration, scientific outreach, and interdisciplinary research. Over the years, I’ve mentored students, contributed to research projects, and engaged with scientific communities to promote open knowledge.
 
-Whether it’s co-authoring a paper, developing computational tools, or exploring new research directions — I’m always open to meaningful collaboration in areas like scientific machine learning, mathematical modeling, and simulation.
+Whether it’s co-authoring a paper, developing computational tools, or exploring new research directions. I’m always open to meaningful collaboration in areas like scientific machine learning, mathematical modeling, and simulation.

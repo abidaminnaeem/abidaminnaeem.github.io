@@ -19,7 +19,7 @@ main:
     url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: "https://abidaminnaeem.github.io/"
         
   # - title: "Blog Posts"
   #   url: /year-archive/

@@ -8,8 +8,6 @@ redirect_from:
 
 # About Me
 ---
-!
-
 **Abid Amin Naeem** is a researcher in *Computational Science, Engineering, and Mathematics* with a focus on **Scientific Machine Learning**, **Mathematical Modeling**, and **Scientific Computing**. I’m passionate about addressing complex real-world challenges through rigorous mathematical frameworks and data-driven approaches.
 
 Currently pursuing my PhD in Aerospace & Mechanical Engineering at the University of Tennessee, I’ve contributed to international research efforts in **uncertainty quantification**, **parametric simulations**, and **neural PDE solvers**. My work bridges the gap between theoretical mathematics and applied machine learning, particularly in modeling dynamic systems where data is scarce but precision is critical.
@@ -19,11 +17,11 @@ I’ve had the privilege of teaching undergraduate courses in **optimization**, 
 Research Interests
 ==================
 
-- Scientific Machine Learning & Generative AI
+- Optimization & Inverse Problems in Engineering
 - Parametric PDEs & Uncertainty Quantification
+- Scientific Machine Learning & Generative AI
 - Numerical Analysis & High-Order Solvers
 - Computational Fluid Dynamics
-- Optimization & Inverse Problems in Engineering
 
 Let's Connect
 =============

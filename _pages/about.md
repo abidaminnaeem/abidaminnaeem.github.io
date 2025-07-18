@@ -10,7 +10,7 @@ redirect_from:
 ---
 **Abid Amin Naeem** is a researcher in *Computational Science, Engineering, and Mathematics* with a focus on **Scientific Machine Learning**, **Mathematical Modeling**, and **Scientific Computing**. I’m passionate about addressing complex real-world challenges through rigorous mathematical frameworks and data-driven approaches.
 
-Currently pursuing my PhD in Aerospace & Mechanical Engineering at the University of Tennessee, Knoxville. I previously earned a master's degree in Applied and Computational Mathematics from **North Carolina State University**, where I specialized in numerical methods, uncertainty quantification, and fluid dynamics.
+Currently pursuing my PhD in Aerospace & Mechanical Engineering at the **University of Tennessee, Knoxville**. I previously earned a master's degree in Applied and Computational Mathematics from **North Carolina State University**, where I specialized in numerical methods, uncertainty quantification, and fluid dynamics.
 
 I’ve had the opportunity to work on research projects involving **uncertainty quantification**, **parametric simulations**, and **neural network-based solvers for partial differential equations (PDEs)**. My work focuses on connecting ideas from theoretical mathematics and applied machine learning to better understand and model complex systems, especially in situations where data is limited but accuracy still matters.
 

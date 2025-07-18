@@ -18,15 +18,16 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    # url: /portfolio/
-    url: "https://abidaminnaeem.github.io/"
+  # - title: "Portfolio"
+  #   # url: /portfolio/
+  #   url: "https://abidaminnaeem.github.io/"
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog Posts"
+    # url: /year-archive/
+    url: "https://medium.com/@abidaminnaeem"
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/

@@ -22,12 +22,17 @@ main:
   #   # url: /portfolio/
   #   url: "https://abidaminnaeem.github.io/"
         
+
+
+  - title: "CV"
+    # url: /cv/
+
+
   - title: "Blog Posts"
     # url: /year-archive/
     url: "https://medium.com/@abidaminnaeem"
     
-  - title: "CV"
-    url: /cv/
+
     
   # - title: "CV"
   #   url: /cv-json/

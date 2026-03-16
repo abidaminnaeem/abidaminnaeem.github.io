@@ -22,7 +22,7 @@ repository               : "abidaminnaeem/abidaminnaeem.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilePic.png"
+  avatar           : "Profilepicture.png"
   name             : "Abid Amin Naeem"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning | Mathematical Modeling | Numerical Simulations | Computational Physics"
